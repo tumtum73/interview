@@ -12,18 +12,18 @@
 
 # Azure 
 
-## Azure PaaS
+## - Azure PaaS
 
-## Azure Serverless
+## - Azure Serverless
 
-## Azure IaaS
+## - Azure IaaS
 
 # AWS
 
-## AWS PaaS
+## - AWS PaaS
 
-## AWS Serverless / Lambda
+## - AWS Serverless / Lambda
 
-## AWS IaaS / EC2
+## - AWS IaaS / EC2
 
 # Microservices
