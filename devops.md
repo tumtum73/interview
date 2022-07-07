@@ -1,6 +1,6 @@
 # General
 - Most apps we deploy these days are web based.  You open a browser, any browser, type a url and hit enter.  Describe what happens.
-- 
+- What tools do you use to stay up-to-date?
 # Agile
 - [What is the difference between agile and devops?](https://azure.microsoft.com/en-us/overview/devops-vs-agile/#:~:text=Understanding%20the%20difference&text=DevOps%20is%20a%20culture%2C%20fostering,common%20reality%20of%20changing%20needs.)
 
