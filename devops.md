@@ -1,6 +1,17 @@
+# Intro - soft skills
+- Tell me about yourself
+- What techniques and tools do you use to keep yourself organized?
+- Job History
+- What are your Strengths
+- What are your Weaknesses
+- biggest accomplishment / most proud of
+- biggest failure
+- What have you done to improve your knowledge in the last year?
+
 # General
-- Most apps we deploy these days are web based.  You open a browser, any browser, type a url and hit enter.  Describe what happens.
-- What tools do you use to stay up-to-date?
+- Most apps we deploy these days are web based. You open a browser, any browser, type a url and hit enter.  Describe what happens.
+- What operating system do you prefer and why?
+
 # Agile
 - [What is the difference between agile and devops?](https://azure.microsoft.com/en-us/overview/devops-vs-agile/#:~:text=Understanding%20the%20difference&text=DevOps%20is%20a%20culture%2C%20fostering,common%20reality%20of%20changing%20needs.)
 
@@ -66,10 +77,14 @@
 # Finish
 - Why do you want this job?
 - What do you expect to accomplish in the first 90 days?
+- What are your goals for the next five years / ten years?
+- Why should we hire you?
 
 # Summary
 Provide Summary at end of interview:
-```My assessment on [candidate]:
+
+```
+My assessment on [candidate]:
 They have a good grasp on DevOps concepts.
 They have little to no experience / understanding of Azure but willing to learn.  
 They have a good understanding of Kubernetes. 
