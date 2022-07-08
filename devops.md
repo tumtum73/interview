@@ -39,6 +39,13 @@
 # Azure DevOps
 
 # Azure 
+- What are some of the Azure Services you have worked with?
+- Describe how Azure Storage manages data in a cost-effective manner. 
+    - Access Tiers - https://docs.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview
+    - File
+    - Blob
+    - Queue
+    - Table
 
 ## - Azure PaaS
 
