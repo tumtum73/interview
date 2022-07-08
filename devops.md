@@ -60,6 +60,17 @@
 - Why do you want this job?
 - What do you expect to accomplish in the first 90 days?
 
+# Summary
+Provide Summary at end of interview:
+```My assessment on [candidate]:
+They have a good grasp on DevOps concepts.
+They have little to no experience / understanding of Azure but willing to learn.  
+They have a good understanding of Kubernetes. 
+They have experience with jenkins, Grafana, and Prometheus.
+
+I [do/do not] recommend hiring them as an [Senior DevOps Engineer], they seemed confident in most of their answers and have a drive to learn new things.
+```
+
 
 # References
 - [Top 100+ DevOps Interview Questions and Answers for 2022](https://www.simplilearn.com/tutorials/devops-tutorial/devops-interview-questions)
