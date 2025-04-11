@@ -47,6 +47,10 @@
 
 # OpenShift
 
+# Terraform
+- How can you support Terraform IaC scenario where resources already exist in a cloud subscription?
+   - terrform import [https://developer.hashicorp.com/terraform/cli/import](https://developer.hashicorp.com/terraform/cli/import)
+
 # Azure DevOps
 
 # Azure 
@@ -87,7 +91,8 @@ Provide Summary at end of interview:
 My assessment on [candidate]:
 They have a good grasp on DevOps concepts.
 They have little to no experience / understanding of Azure but willing to learn.  
-They have a good understanding of Kubernetes. 
+They have a good understanding of Kubernetes.
+They have a good understaning of Terraform and Infrastructure as Code solutions.
 They have experience with jenkins, Grafana, and Prometheus.
 
 I [do/do not] recommend hiring them as an [Senior DevOps Engineer], they seemed confident in most of their answers and have a drive to learn new things.
