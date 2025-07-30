@@ -30,12 +30,17 @@
 - What are some deployment strategies?
    - Rolling
    - Blue/Green
+      - Define a plan for blue/green deployment with rollback on Azure using Terraform and pipelines.    
    - Canary
-- What is Infrastructure as Code and why do we use it?
+      - In a canary deployment to production, half the traffic returns 502, while others succeed. Walk us through your troubleshooting approach.
+- - What is Infrastructure as Code and why do we use it?
 - What is git and why do we use it?
 - Tell me about Branching and Branch Policies.
+- CI/CD pipeline takes 40 mins to deploy a small change. What would you do to optimize it?
+- Suppose your production pipeline is blocked due to missing approvals and stakeholders are unreachable. What will you do?
 
 # Security
+- You’re asked to design a highly available logging system for 100+ microservices across 3 regions. What tools and architecture would you suggest?
 
 # Kubernetes
 - Explain how containers run in Kubernetes.
@@ -44,6 +49,10 @@
    - Ingress Controller
    - Secrets
 - How does a Virtual Machine differ from a container?
+- You’ve deployed an app to Kubernetes and it fails health checks randomly. How do you debug this end-to-end?
+- You see high CPU usage in one pod, but logs look clean. What next?
+- Production app works fine for internal users but fails for external ones (403 error). How will you isolate the issue?
+- How would you set up an automated rollback strategy in Kubernetes for failed deployments?
 
 # OpenShift
 
@@ -52,6 +61,7 @@
    - terrform import [https://developer.hashicorp.com/terraform/cli/import](https://developer.hashicorp.com/terraform/cli/import)
 
 # Azure DevOps
+- How do you ensure secure and dynamic secret rotation in Azure DevOps pipelines?
 
 # Azure 
 - What are some of the Azure Services you have worked with?
@@ -102,3 +112,4 @@ I [do/do not] recommend hiring them as an [Senior DevOps Engineer], they seemed 
 # References
 - [Top 100+ DevOps Interview Questions and Answers for 2022](https://www.simplilearn.com/tutorials/devops-tutorial/devops-interview-questions)
 - [Top DevOps Interview Questions You Must Prepare In 2022](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)
+- [J.P. Morgan Interview Experience - LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7353638746455519232/?origin=NETWORK_CONVERSATIONS&midToken=AQHWFwFeu6M1eg&midSig=2Xal2kedAd1HU1&trk=eml-email_network_conversations_01-truncated~share~message-0-see~more&trkEmail=eml-email_network_conversations_01-truncated~share~message-0-see~more-null-kmofa~mdp8tczo~gi-null-null&eid=kmofa-mdp8tczo-gi&otpToken=MTEwMTE4ZTUxMjJhYzljMmJlMmYwMmVmNDUxNmU0YjI4Y2NjZDg0MTkxYWM4NTY5NzdjNzA0NmM0ZjVhNWZmMGZjODk4ZjhhNjllY2U0YzQwN2U4Y2QxN2U3YzQ3YTc0ZTExOWFjOWU0ZjRlNDQyMWFhLDEsMQ%3D%3D)
