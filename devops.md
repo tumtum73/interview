@@ -58,7 +58,7 @@
 
 # Terraform
 - How can you support Terraform IaC scenario where resources already exist in a cloud subscription?
-   - terrform import [https://developer.hashicorp.com/terraform/cli/import](https://developer.hashicorp.com/terraform/cli/import)
+   - terraform import [https://developer.hashicorp.com/terraform/cli/import](https://developer.hashicorp.com/terraform/cli/import)
 
 # Azure DevOps
 - How do you ensure secure and dynamic secret rotation in Azure DevOps pipelines?
